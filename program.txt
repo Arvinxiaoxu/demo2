@@ -6,3 +6,5 @@ method(){
 show(){
 	String name = "xxx";
 }
+shwo3(){
+}
