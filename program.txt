@@ -1,5 +1,8 @@
 Main(){
 }
 method(){
-
+	printf("my name is xupenghao");
+}
+show(){
+	String name = "xxx";
 }
